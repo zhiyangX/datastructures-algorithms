@@ -165,7 +165,7 @@ IntelliJ IDEA
 | Query in segment tree | [Link](22-Segment-Tree/04-Query-in-Segment-Tree/src/) |
 | Problem on segment tree | [Link](22-Segment-Tree/05-Segment-Tree-Problems-in-Leetcode/src/) |
 | Update of segment tree | [Link](22-Segment-Tree/06-Update-Single-Element-in-Segment-Tree/src/) |
-| **17.Trie** | [Link](23-Trie/) |
+| **16.Trie** | [Link](23-Trie/) |
 | Trie basics | [Link](23-Trie/02-Trie-Basics/src/) |
 | Searching in trie | [Link](23-Trie/03-Searching-in-Trie/src/) | 
 | Prefix search in trie | [Link](23-Trie/04-Prefix-in-Trie/src/) |
