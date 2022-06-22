@@ -2,11 +2,11 @@
 
 ## Purpose of this repo
 
-In my graduate and undergraduate computer science courses, I have implemented many data structures and algorithms. I record them in this repo for the future reference.
+In my graduate and undergraduate computer science courses, I have implemented many data structures and algorithms. I gather them in this repo for the future reference.
 
 ## Environment
 
-Link 8
+Java 8
 
 IntelliJ IDEA
 
